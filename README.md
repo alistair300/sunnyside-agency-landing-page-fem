@@ -1,4 +1,4 @@
-Live Demo: [Sunnyside Agency] (https://alistair-sunnyside-agency.netlify.app)
+Live Demo: [Sunnyside Agency](https://alistair-sunnyside-agency.netlify.app)
 
 # Frontend Mentor - Sunnyside agency landing page
 
